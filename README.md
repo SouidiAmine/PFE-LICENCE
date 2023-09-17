@@ -1,9 +1,5 @@
-# PFE-LICENCE
-Développement d’un jeu sérieux à des fins de rééducation de la main
+# Bachelor's Thesis
 
-lien de rapport plus la vidéo de démonstration de notre projet : https://drive.google.com/drive/folders/1j3fUEUfS6EZ6URfqZsk7y26nqXtXbYLA?usp=sharing 
-
-Et celui c'est le lien d'installation de Godot : https://drive.google.com/drive/folders/1IJlykjOZv08gzIJ0TO_CX5X8wMmLOEKv?usp=sharing
 
 
 # Hand Rehabilitation Interactive Game using Kinect
@@ -32,33 +28,34 @@ To address this, we have developed an interactive game that allows patients to c
 
 - Kinect Sensor
 - Appropriate Kinect SDK
-- [List any other prerequisites here]
 
-### Installation
-
-[Provide detailed installation instructions for your project here]
 
 ## Usage
 
-[Explain how to use your application, including any specific instructions or guidelines for both patients and therapists.]
+To use this application for hand rehabilitation, follow these steps:
 
-## Contributions
+1. Ensure you are positioned between 0.5 meters and 3 meters in front of the Kinect sensor.
+2.It is better to be in a bright place.
 
-We welcome contributions to enhance this project. If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-[Optional: Acknowledge any third-party libraries, tools, or individuals who have contributed to your project.]
 
 ## Contact
 
-[Provide contact information or ways for interested parties to get in touch with you or your team.]
-
+For any questions or assistance, please feel free to contact us at [contact.souidi2000@gmail.com].
 ---
 
 **Keywords:** Serious games, Hand rehabilitation, Recognition of hand gestures, Kinect, Human-machine interaction, Segmentation
+
+## Important Links
+
+- [Project Report](https://drive.google.com/drive/folders/1j3fUEUfS6EZ6URfqZsk7y26nqXtXbYLA?usp=sharing) - Check out our detailed project report to learn more about our project.
+
+- [Demo Video](https://drive.google.com/drive/folders/1j3fUEUfS6EZ6URfqZsk7y26nqXtXbYLA?usp=sharing) - Watch our demonstration video to see our project in action.
+
+- [Godot Installation Link](https://drive.google.com/drive/folders/1IJlykjOZv08gzIJ0TO_CX5X8wMmLOEKv?usp=sharing) - You'll need Godot to run our application. Follow this link to download and install Godot.
+
+
+
+
+
 
