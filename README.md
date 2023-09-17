@@ -35,7 +35,7 @@ To address this, we have developed an interactive game that allows patients to c
 To use this application for hand rehabilitation, follow these steps:
 
 1. Ensure you are positioned between 0.5 meters and 3 meters in front of the Kinect sensor.
-2.It is better to be in a bright place.
+2. It is better to be in a bright place.
 
 
 
